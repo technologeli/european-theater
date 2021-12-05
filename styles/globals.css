@@ -1,16 +1,19 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#md h1 {
+  @apply border-b-8 border-gray-800 text-5xl text-gray-900 font-bold pb-2;
+}
+
+#md h2 {
+  @apply border-b-4 border-gray-800 text-2xl text-gray-900 font-semibold pb-2;
+}
+
+#md strong {
+  @apply text-gray-900;
+}
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
+  @apply bg-gray-800;
 }
