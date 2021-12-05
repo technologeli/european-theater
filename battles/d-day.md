@@ -26,3 +26,7 @@ The invasion was divided into multiple phases. The first was an airborne attack 
 ## Outcomes and Significance
 
 The Allies had successfully opened a western front, and had control of a shore on the continent of Europe. This shore would provide a landing point for the Allied military, allowing aircraft, ships, and troops to all land and resupply. This also diverted the German forces from the USSR, which up until this point was their primary focus. In total, D-Day opened not only a western front but a new path towards Allied victory.
+
+## Sources
+
+"The Great Invasion: Operation Overlord." In Almanac, edited by Barbara C. Bigelow, George Feldman, Christine Slovey, and Kelly King Howes, 251-275. Vol. 2 of World War II Reference Library. Detroit, MI: UXL, 2000. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/CX3411800031/WHIC?u=pl7053&sid=bookmark-WHIC&xid=da81875f](https://link.gale.com/apps/doc/CX3411800031/WHIC?u=pl7053&sid=bookmark-WHIC&xid=da81875f).

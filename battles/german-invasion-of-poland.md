@@ -24,3 +24,7 @@ While Poland did resist, the German strategy of Blitzkrieg (lightning war) prove
 ## Outcomes and Significance
 
 Germany quickly and successfully took control of west Poland, and did not have an eastern front on its hands at the beginning of World War II. France and Great Britain, formerly following the strategy of appeasement, found this to be too much and declared war on Germany on September 3, 1939, two days after Germany first invaded Poland. While Germany had been accumulating territory prior to this invasion, the invasion of Poland was one of the key events that started World War II.
+
+## Sources
+
+"Germany Invades Poland: September 1, 1939." In Europe, edited by Jennifer Stock. Vol. 4 of Global Events: Milestone Events Throughout History. Farmington Hills, MI: Gale, 2014. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/SPSVKF468869213/WHIC?u=pl7053&sid=bookmark-WHIC&xid=6d344b95](https://link.gale.com/apps/doc/SPSVKF468869213/WHIC?u=pl7053&sid=bookmark-WHIC&xid=6d344b95).

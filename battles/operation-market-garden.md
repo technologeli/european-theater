@@ -22,3 +22,7 @@ The failure of Operation Market Garden was not due to fighting, but rather due t
 ## Outcomes and Significance
 
 Due to these planning failures, the Allies suffered a costly defeat and loss of many troops. Additionally, the Allies were not able to obtain a route across the Rhine River from this operation.
+
+## Sources
+
+Hoyer, Brodie K. "Operation market garden: the battle for Arnhem." Engineer: The Professional Bulletin for Army Engineers, April-June 2008, 61+. Gale General OneFile (accessed December 5, 2021). [https://link.gale.com/apps/doc/A190332230/GPS?u=pl7053&sid=bookmark-GPS&xid=da6f1348](https://link.gale.com/apps/doc/A190332230/GPS?u=pl7053&sid=bookmark-GPS&xid=da6f1348).

@@ -24,3 +24,7 @@ Though the British forces from El Alamein had been victorious, the American and 
 ## Outcomes and Significance
 
 Having learned their lesson, the French updated their weaponry and the Americans restructured their training, allowing them to be better equipped to eventually remove the Axis powers from North Africa, and be better prepared for retaking Europe during the invasion of Normandy.
+
+## Sources
+
+"The Battle of Stalingrad: August 23, 1942–February 2, 1943." In Europe, edited by Jennifer Stock. Vol. 4 of Global Events: Milestone Events Throughout History. Farmington Hills, MI: Gale, 2014. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/NEKVYY047190154/WHIC?u=pl7053&sid=bookmark-WHIC&xid=39597deb](https://link.gale.com/apps/doc/NEKVYY047190154/WHIC?u=pl7053&sid=bookmark-WHIC&xid=39597deb).

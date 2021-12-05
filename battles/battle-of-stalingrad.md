@@ -22,3 +22,7 @@ The Battle of Stalingrad was violent and brutal. Initially, combat was bloody an
 ## Outcomes and Significance
 
 This was one of the major turning points in World War II, as the Germans began to retreat from the east. It was a major loss to Germany, and began a series of territorial losses that would result in Germany’s eventual surrender. Additionally, the Battle of Stalingrad served as a horrifying demonstration of modern war, and to the USSR, an example of courage and heroism.
+
+## Sources
+
+"The Battle of Stalingrad: August 23, 1942–February 2, 1943." In Europe, edited by Jennifer Stock. Vol. 4 of Global Events: Milestone Events Throughout History. Farmington Hills, MI: Gale, 2014. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/NEKVYY047190154/WHIC?u=pl7053&sid=bookmark-WHIC&xid=39597deb](https://link.gale.com/apps/doc/NEKVYY047190154/WHIC?u=pl7053&sid=bookmark-WHIC&xid=39597deb).

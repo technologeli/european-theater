@@ -22,3 +22,7 @@ The Germans collected as much offensive firepower as possible for this operation
 ## Outcomes and Significance
 
 This was Germany’s desperate last attempt at an offensive, and it failed quickly and fatally. Almost a hundred thousand German troops and about half of their armored vehicles were lost. Though not as much as Germany, Americans also suffered severely with over 60,000 casualties. While there was no large territorial gain or loss from this battle, it undoubtedly led to a sooner end to World War II in Europe, as Germany had used most of their remaining resources on this offensive and lost a significant portion of them.
+
+## Sources
+
+"Bulge, Battle of the." In Europe Since 1914: Encyclopedia of the Age of War and Reconstruction, edited by John Merriman and Jay Winter, 480-483. Vol. 1. Detroit, MI: Charles Scribner's Sons, 2006. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/CX3447000170/WHIC?u=pl7053&sid=bookmark-WHIC&xid=29478f82](https://link.gale.com/apps/doc/CX3447000170/WHIC?u=pl7053&sid=bookmark-WHIC&xid=29478f82).

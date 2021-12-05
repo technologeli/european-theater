@@ -22,3 +22,7 @@ Montgomery took control of the demoralized Eighth Army and turned it into a succ
 ## Outcomes and Significance
 
 Bernard L. Montgomery, who had no desert experience, successfully repelled the Axis force from the Middle East and would later lead the British during the invasion of Normandy. Additionally, Operation Torch was able to land in Morocco and Algeria, leading to the loss of Axis control in North Africa.
+
+## Sources
+
+"El Alamein, Battle of." In Europe Since 1914: Encyclopedia of the Age of War and Reconstruction, edited by John Merriman and Jay Winter, 951-953. Vol. 2. Detroit, MI: Charles Scribner's Sons, 2006. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/CX3447000313/WHIC?u=pl7053&sid=bookmark-WHIC&xid=fff9dd13](https://link.gale.com/apps/doc/CX3447000313/WHIC?u=pl7053&sid=bookmark-WHIC&xid=fff9dd13).

@@ -22,3 +22,7 @@ The Soviet defenses were incredibly fortified, preventing the German offense fro
 ## Outcomes and Significance
 
 The Battle of Kursk demonstrated the now extremely coordinated Soviet military, giving experience on multifront operations and rapid counter offensives. Additionally, the strategic momentum of the eastern front was now entirely in the USSR’s hands.
+
+## Sources
+
+"Kursk, Battle of." In Europe Since 1914: Encyclopedia of the Age of War and Reconstruction, edited by John Merriman and Jay Winter, 1598-1599. Vol. 3. Detroit, MI: Charles Scribner's Sons, 2006. Gale In Context: World History (accessed December 5, 2021). [https://link.gale.com/apps/doc/CX3447000537/WHIC?u=pl7053&sid=bookmark-WHIC&xid=2d44fbc8](https://link.gale.com/apps/doc/CX3447000537/WHIC?u=pl7053&sid=bookmark-WHIC&xid=2d44fbc8).
