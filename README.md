@@ -13,4 +13,4 @@ See `package.json` for more information.
 - Marked
 
 ## Note
-I designed this on a larger monitor, and did not realize the image was too large for normal monitors. This means that the points on the map are not aligned to where they should be unless you zoom out in your browser (control + minus on Windows/Linux or command + minus on Mac). Also, this does not work on mobile at all.
+I designed this on a larger monitor, and did not realize the image was too large for normal monitors. This means that the points on the map are not aligned to where they should be unless you zoom out in your browser (control + minus on Windows/Linux or command + minus on Mac). Fixing it would only require fixing the absolute positioning of the points. Also, this does not work on mobile at all.
